@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm here to explore the power of data science in the field of chemistry.
 
 <!--
 **GVShruthi/GVShruthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
