@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I'm here to explore the power of data science in the field of chemistry.
-### I hold good command on public adminstration , indian history and polity subjects.
+### I'm here to explore the power of data science.
+### I hold good command on python, SQL, statistics, calculus, indian history and polity subjects.
 
 
 <!--
